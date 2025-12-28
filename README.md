@@ -14,4 +14,4 @@
 
  [TryHackMe Profile](https://tryhackme.com/p/varadbandekar22)
 
- [Blog](https://medium.com/@varadbandekar22)# varadbandeka
+ [Blog](https://medium.com/@varadbandekar22)
